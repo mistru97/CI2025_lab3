@@ -1,0 +1,5 @@
+jupyter>=1.1.1
+numpy>=2.3.3
+tqdm>=4.67.1
+networkx>=3.5
+icecream>=2.1.8
